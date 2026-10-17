@@ -47,4 +47,4 @@ Python, C++ | Machine Learning, Statistical Analysis, IBM SPSS | GIS, Remote Sen
 [![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](https://md-anamul-hossain-chowdhury.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anamul.sust.ce52@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<github-username>&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anamul-Chowdhury&show_icons=true&theme=default)
